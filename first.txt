@@ -1,2 +1,4 @@
 git の演習
 gitgit
+git add
+git commit commit
